@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jayeshsimform
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning NextJs, GraphQl, Docker, AWS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Coding, Traveling
+- 🌱 I’m currently learning  GraphQl, AWS
+- 💞️ I’m looking to collaborate on -
+- 📫 How to reach me -
 
 <!---
 jayeshsimform/jayeshsimform is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
