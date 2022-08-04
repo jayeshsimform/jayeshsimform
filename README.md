@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jayeshsimform
-- 👀 I’m interested in Coding, Traveling
-- 🌱 I’m currently learning  GraphQl, AWS
+- 👀 I’m interested in Coding,Traveling and Playing Games
+- 🌱 I’m currently learning GraphQL, AWS
 - 💞️ I’m looking to collaborate on -
 - 📫 How to reach me -
 
