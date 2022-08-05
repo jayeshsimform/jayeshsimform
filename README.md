@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jayeshsimform
+- 👋 Hi, I’m Jayesh Sojitra
 - 👀 I’m interested in Coding,Traveling and Playing Games
 - 🌱 I’m currently learning GraphQL, AWS
 - 💞️ I’m looking to collaborate on -
