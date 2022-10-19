@@ -44,7 +44,7 @@
 ---
 
 <h3 align="center">My Stats:</h3>
-<a href="https://github.com/jayeshsimform">
+<a href="https://github.com/jayeshsimform" width="50%">
    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jayeshsimform&layout=compact&langs_count=8"/>
 </a>
 <a href="https://github.com/jayeshsimform">
